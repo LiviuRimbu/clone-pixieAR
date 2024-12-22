@@ -1,0 +1,29 @@
+{
+  "header": {
+    "title": "Bun Venit"
+     },
+  "books-covers-ar": {
+    "instruction": "Alegeți cartea pe care să o scanați"
+  },
+  "iframe" : {
+    "selected-image": "Scanați coperta:",
+    "button": "Înapoi"
+  },
+  "book-detail" : {
+    "selected-image": "Ati ales cartea:",
+    "button": "Înapoi",
+    "btn-scan-cover": "Scanează coperta",
+    "btn-scan-cover-sec": "Copertă animată 3D",
+    "btn-scan-content": "Scanează content",
+    "btn-scan-content-sec": "Redare conținut audio-video"
+      },
+  "qr-scanner" : {
+    "selected-image": "Scan qr code",
+    "button": "Înapoi",
+    "wrong-code": "A fost scanat un cod QR greșit."
+  },
+  "camera-access" : {
+    "alert": "Instructiuni serioase si pretioase"
+  }
+}
+

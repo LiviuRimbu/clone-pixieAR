@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "Welcome"
+  },
+  "books-covers-ar": {
+    "instruction": "Choose a book to scan"
+  },
+  "iframe" : {
+    "selected-image": "Scan this book:",
+    "button": "Back"
+  },
+  "book-detail" : {
+    "selected-image": "Selected this book:",
+    "button": "Back",
+    "btn-scan-cover": "Scan cover",
+    "btn-scan-cover-sec": "3D Animation",
+    "btn-scan-content": "Scan content",
+    "btn-scan-content-sec": "Audio-Video Content Playback"
+  },
+  "qr-scanner" : {
+    "selected-image": "Scan qr code:",
+    "button": "Back",
+    "wrong-code": "Scanned wrong Qr code"
+  },
+  "camera-access" : {
+    "alert": "Instructions, very smart instructions"
+  }
+}
